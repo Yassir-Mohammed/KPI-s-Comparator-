@@ -6,7 +6,7 @@ Python script for comparing KPIs pre-post a given date.
 
 ![image](https://user-images.githubusercontent.com/103688787/208787916-aa42ab52-d2ee-45e2-a7a2-c720f74b2eab.png)
 
-- Output isth percentages of improvment or degradation and final decision whether KPIs are acceptable or not:
+- Output is the percentages of improvment or degradation and final decision whether KPIs are acceptable or not:
 
 ![image](https://user-images.githubusercontent.com/103688787/208787873-88346b84-3403-4541-acbc-d0d78fc07215.png)
 
